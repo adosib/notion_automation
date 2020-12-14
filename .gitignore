@@ -1,2 +1,3 @@
-noenv/
+noso/
 *.cfg
+.DS_Store
