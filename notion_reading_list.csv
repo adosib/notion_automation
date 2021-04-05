@@ -1,0 +1,58 @@
+,name,identifier,pages_read,timestamp
+0,Automate the Boring Stuff with Python,d882df6a-a01d-499b-b767-cd33c617b118,381,2021-04-04 12:08:00.112902
+1,The Count of Monte Cristo,b8f20767-f91b-43f0-939f-0c0b610d7503,300,2021-04-04 12:08:00.112902
+2,Do Androids Dream of Electric Sheep?,86b36856-eef9-4d66-af8a-c835edec00e7,240,2021-04-04 12:08:00.112902
+3,Think and Grow Rich,34a7a43c-d034-4318-ada9-0d0a3bbe7b37,115,2021-04-04 12:08:00.112902
+4,Man's Search for Meaning,994a74fd-b0cb-4a03-8791-57b4535fc0cb,11,2021-04-04 12:08:00.112902
+5,Outliers,d498c94f-2442-41c7-912d-4975ae27515f,284,2021-04-04 12:08:00.112902
+6,Introduction to Computation and Programming Using Python,65c993b9-05c4-4213-bcdd-bce674e643a2,0,2021-04-04 12:08:00.112902
+7,Hands-On ML with Scikit-Learn & Tensorflow,162bb190-a191-417d-be3a-438ecb5ba1ef,0,2021-04-04 12:08:00.112902
+8,Python Machine Learning,f667ef97-5141-4972-b0a2-8a0e84d8294f,0,2021-04-04 12:08:00.112902
+9,Derivatives Analytics with Python,cdb30435-f65f-4048-8662-e5cb03d40ca2,0,2021-04-04 12:08:00.112902
+10,Effective Python,65aaf7aa-e437-412d-b765-397af9861c42,0,2021-04-04 12:08:00.112902
+11,The Art of R Programming,29de06d2-f7d8-43a3-b082-e73c32112cd1,0,2021-04-04 12:08:00.112902
+12,Fluent Python,319c80c9-1ce3-415c-8099-91d12012c734,0,2021-04-04 12:08:00.112902
+13,Mastering RegEx,e0b28721-6ea1-4c28-b283-c61bc88ad6ba,0,2021-04-04 12:08:00.112902
+14,Building Skills in Object-Oriented Design,3751566a-3a4d-4756-9e84-fe25bf500f69,0,2021-04-04 12:08:00.112902
+15,Python Crash Course,5affc9f5-738a-4114-9653-58fde0776664,0,2021-04-04 12:08:00.112902
+16,Python Essential Reference,479d43e7-c411-4885-bf4c-31da46ea6b1b,0,2021-04-04 12:08:00.112902
+17,The Pragmatic Programmer,913763f5-de64-4c69-b809-f8fcf32d4fe6,0,2021-04-04 12:08:00.112902
+18,Quantitative Economics with Python,b769315b-13d2-48f0-bfb6-508c02a087d7,0,2021-04-04 12:08:00.112902
+19,Think Python 2E,c0552459-cf70-431d-bdd9-14a4b4c0e7f1,0,2021-04-04 12:08:00.112902
+20,Building Secure and Reliable Systems,b74963f2-0290-40a1-b46a-202a48505bfb,0,2021-04-04 12:08:00.112902
+21,Learn Spark,cdff3bfb-af58-4720-8e02-63f01f87bd96,0,2021-04-04 12:08:00.112902
+22,Data and Reality,89afb8f7-8a9b-4aa4-9c19-6355ec5ab4ca,1,2021-04-04 12:08:00.112902
+23,The Data Warehouse Toolkit,79369186-e001-465a-84c4-2f60c357ef6b,26,2021-04-04 12:08:00.112902
+24,STAR Schema,8f2117e3-207f-4666-9904-2d79e3b64863,3,2021-04-04 12:08:00.112902
+25,Designing Data Intensive Applications,dbe11bbe-0415-4736-b7fc-b7a3a02ea7ed,1,2021-04-04 12:08:00.112902
+26,The contribution of neural networks and genetic algorithms to business decision support ,d16e6dd9-0632-45f1-b2ec-ad644264db63,0,2021-04-04 12:08:00.112902
+27,Intro to OOP in Python,942f9d7a-d477-4ec4-a751-a291500149b4,1,2021-04-04 12:08:00.112902
+28,Role of Underscore(_) in Python - DataCamp,695938ba-7b78-4f2b-ba10-2c2119d893b0,1,2021-04-04 12:08:00.112902
+29,Python Tutorial: Properties vs. Getters and Setters,9ca7bd19-9ddd-4783-9cbc-70d4677402c3,1,2021-04-04 12:08:00.112902
+30,Testing Your Code — The Hitchhiker's Guide to Python,6c8afcae-66a3-4408-b775-be390ff35bfe,0,2021-04-04 12:08:00.112902
+31,"The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!) – Joel on Software",de304ae2-0010-4044-9320-e9640fa39edd,1,2021-04-04 12:08:00.112902
+32,A blogging style guide vol. 1,d745ce7c-349e-42a8-bf91-27039ff81c11,1,2021-04-04 12:08:00.112902
+33,"""Stylish"" browser extension steals all your internet history",5fb68ac5-c8cd-478f-92fb-c5f461b45b7a,1,2021-04-04 12:08:00.112902
+34,A blogging style guide vol. 2,b73a19c9-d8b6-493f-a2c7-021e0c9f53cb,1,2021-04-04 12:08:00.112902
+35,Web API performance: profiling Django REST framework,a98f407d-64fc-4eb9-8ae5-03fbe32f0363,1,2021-04-04 12:08:00.112902
+36,Documenting Python Code: A Complete Guide – Real Python,5c82964d-7a34-4722-8889-d44cd4ebf024,1,2021-04-04 12:08:00.112902
+37,Getting started with Apache Cassandra and Python,482c0f5a-39f9-4042-bae5-c328a4055b39,0,2021-04-04 12:08:00.112902
+38,MongoDB Multi-Document ACID Transactions,b5ea2d91-f1f5-40f0-a555-6827b2895fd5,0,2021-04-04 12:08:00.112902
+39,NLP with Python: Text Clustering,a2ebdc00-6275-439d-ae79-3e88558814e8,0,2021-04-04 12:08:00.112902
+40,Quick & Easy Alerting for Apache Airflow,fa574f8c-0e88-4b1c-9fbe-2dd4d8b53022,0,2021-04-04 12:08:00.112902
+41,Business Logic in Django projects,6d43dd15-adf0-453a-b704-3a7a0e12cc16,0,2021-04-04 12:08:00.112902
+42,10 Scientifically Proven Tips for Beating Procrastination,88637edc-23a8-4309-bed4-5ed1d960627e,0,2021-04-04 12:08:00.112902
+43,Transformers from scratch,008f96da-6b5e-4cd0-96c1-f6a87e5f6eac,0,2021-04-04 12:08:00.112902
+44,Gradient descent for wide two-layer neural networks – II: Generalization and implicit bias – Machine Learning Research Blog,8166982d-4caf-4c0a-99f0-768ef649d3b8,0,2021-04-04 12:08:00.112902
+45,SQL unit testing best practices,ec99615b-1308-462e-98b8-b3f9e1048fe1,0,2021-04-04 12:08:00.112902
+46,A Data Scientist’s Guide to Writing Unit Tests | by Preeya Phadnis | Clover Health,d70bbec5-9e76-46d7-abd5-3961daeb72fa,1,2021-04-04 12:08:00.112902
+47,"Refactoring Python Code for Machine Learning Projects. Python “Spaghetti Code” Everywhere! | by Ernest Bonat, Ph.D. | Medium",22c5c808-652b-47a1-89de-979d9f8a6f79,1,2021-04-04 12:08:00.112902
+48,Improve Serialization Performance in Django Rest Framework | Haki Benita,431cbcf8-206c-404b-acbf-1c30da23d90e,0,2021-04-04 12:08:00.112902
+49,Using Markdown in Django | Haki Benita,ee80a9a4-6f4f-48a6-bf88-f32c64c898fa,0,2021-04-04 12:08:00.112902
+50,Parallel Processing in Python - A Practical Guide with Examples | ML+,6f7dbec5-eaef-428e-86e6-e05355a056d9,0,2021-04-04 12:08:00.112902
+51,Quantum computing for the very curious,bc67bb9f-f193-4443-bfc8-c77bba3e5a55,0,2021-04-04 12:08:00.112902
+52,Augmenting Long-term Memory,5757f92d-244f-4eb1-ab72-66af5bd70ecf,0,2021-04-04 12:08:00.112902
+53,Custom URL structure: How to create branded links for every situation,3bc1fe7a-2234-4e4b-87ff-41aaa04d5f50,0,2021-04-04 12:08:00.112902
+54,How we built analytics at Ada with Airflow and Redshift | by Polina Slavskaya | Medium,4d672379-1fcc-42da-928d-f5d08d1289cd,0,2021-04-04 12:08:00.112902
+55,What is Link Retargeting? Increase Your Top of Funnel Traffic by 500%+,2b734a1b-b2be-4e16-8d39-34769367be3f,0,2021-04-04 12:08:00.112902
+56,UTM Parameters Made Simple: 15+ Things Marketers Need to Know,86ff24ed-a4a9-4a06-b4c9-1897584768b7,0,2021-04-04 12:08:00.112902
