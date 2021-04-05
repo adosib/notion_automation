@@ -1,3 +1,4 @@
 noso/
 *.cfg
 .DS_Store
+__pycache__/
